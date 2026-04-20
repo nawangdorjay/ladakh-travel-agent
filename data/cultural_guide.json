@@ -1,0 +1,70 @@
+{
+  "guidelines": {
+    "Monastery Etiquette": {
+      "keywords": ["monastery", "gompa", "temple", "prayer", "monk", "buddhist"],
+      "tips": [
+        "Remove shoes before entering prayer halls",
+        "Walk clockwise around monasteries, stupas, and mani walls",
+        "Do not touch religious artifacts, murals, or thangka paintings",
+        "Ask permission before photographing monks or ceremonies",
+        "Dress modestly — cover shoulders and knees",
+        "Speak softly inside prayer halls",
+        "Do not sit on raised platforms meant for monks or lamas",
+        "Leave a small donation if you wish (₹10-50 is fine)",
+        "Do not smoke or eat inside monastery premises"
+      ]
+    },
+    "General Cultural Tips": {
+      "keywords": ["culture", "custom", "general", "etiquette", "tips", "manners"],
+      "tips": [
+        "Greet with 'Julley' (means hello, thank you, and goodbye in Ladakhi)",
+        "Accept tea or food offerings with both hands",
+        "Don't point your feet toward people or religious objects",
+        "Don't step on or remove prayer flags",
+        "Respect the environment — Ladakh's ecosystem is extremely fragile",
+        "Carry reusable water bottles — plastic waste is a serious problem",
+        "Don't buy fossils, artifacts, or animal products — it's illegal",
+        "Ask before photographing locals, especially elders",
+        "Tipping is appreciated but not expected. ₹50-100 for good service.",
+        "Learn basic Ladakhi: 'Juk' (sit), 'Khamzang inna?' (How are you?), 'Thuk-je che' (Thank you)"
+      ]
+    },
+    "Trekking Etiquette": {
+      "keywords": ["trek", "trekking", "hiking", "camping", "chadar"],
+      "tips": [
+        "Hire local guides and porters — supports the local economy",
+        "Don't leave trash on trails. Pack out everything you pack in.",
+        "Don't disturb wildlife or stray from marked trails",
+        "Respect private land and farming areas",
+        "Use designated camping sites when available",
+        "Don't light fires in sensitive areas — use stoves",
+        "Chadar Trek should only be attempted with experienced local operators",
+        "Carry your own first aid kit and know basic AMS treatment"
+      ]
+    },
+    "Photography Etiquette": {
+      "keywords": ["photo", "photograph", "camera", "selfie", "picture"],
+      "tips": [
+        "Always ask before photographing people, especially monks and elders",
+        "Some monasteries charge a camera fee (₹20-50)",
+        "Drone photography requires permits and is restricted near military areas",
+        "Don't photograph military installations, bridges, or border areas",
+        "Be respectful during religious ceremonies — don't use flash",
+        "Offer to share photos with locals you photograph"
+      ]
+    },
+    "Environmental Responsibility": {
+      "keywords": ["environment", "eco", "plastic", "trash", "litter", "sustainable"],
+      "tips": [
+        "Carry reusable water bottles — refill at cafes and homestays",
+        "Say no to single-use plastic bags",
+        "Don't buy bottled water if you can avoid it",
+        "Use biodegradable toiletries",
+        "Don't pick wildflowers or disturb wildlife",
+        "Support eco-friendly accommodations and tour operators",
+        "Carry a small trash bag on treks and collect any litter you see",
+        "Use shared transport when possible to reduce carbon footprint"
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "homestays": {
+    "Nubra Valley": {
+      "keywords": ["nubra", "diskit", "hunder", "sumur", "panamik"],
+      "options": [
+        {
+          "name": "Nubra Organic Retreat, Hunder",
+          "description": "Eco-friendly camp with organic food, near sand dunes and double-humped camels",
+          "price": "₹1500-3000/night with meals",
+          "contact": "Available on booking platforms"
+        },
+        {
+          "name": "Diskit Village Homestays",
+          "description": "Traditional Ladakhi homes near Diskit Monastery. Authentic local experience.",
+          "price": "₹800-1500/night with meals",
+          "contact": "Ask at Diskit village or through local travel agents"
+        },
+        {
+          "name": "Sumur Homestays",
+          "description": "Quiet village setting near Sumur Monastery. Apple orchards.",
+          "price": "₹800-1200/night with meals",
+          "contact": "Ask locally in Sumur village"
+        }
+      ]
+    },
+    "Pangong Lake": {
+      "keywords": ["pangong", "spangmik", "merak", "lukung"],
+      "options": [
+        {
+          "name": "Spangmik Homestays",
+          "description": "Closest village to Pangong Lake. Basic but scenic.",
+          "price": "₹1000-2000/night with meals",
+          "contact": "Ask locally or book through Leh travel agents"
+        },
+        {
+          "name": "Merak Village Homestays",
+          "description": "Quieter than Spangmik. Beautiful lake views.",
+          "price": "₹1000-1500/night with meals",
+          "contact": "Limited connectivity — book in advance through Leh agents"
+        },
+        {
+          "name": "Pangong Camping Sites",
+          "description": "Designated camping areas near the lake. Various operators.",
+          "price": "₹1500-4000/night depending on season",
+          "contact": "Book through Leh travel agents"
+        }
+      ]
+    },
+    "Leh": {
+      "keywords": ["leh", "leh city"],
+      "options": [
+        {
+          "name": "Leh Old Town Homestays",
+          "description": "Traditional Ladakhi houses in the historic old town area",
+          "price": "₹1000-2500/night",
+          "contact": "Walk-in or booking platforms"
+        },
+        {
+          "name": "Changspa Area Guesthouses",
+          "description": "Popular backpacker area with many budget options",
+          "price": "₹600-1500/night",
+          "contact": "Multiple options along Changspa Road"
+        }
+      ]
+    },
+    "Tso Moriri": {
+      "keywords": ["tso moriri", "korzok", "moriri"],
+      "options": [
+        {
+          "name": "Korzok Village Homestays",
+          "description": "Only settlement near Tso Moriri. Traditional nomadic culture.",
+          "price": "₹800-1500/night with meals",
+          "contact": "Ask at Korzok village or through Leh agents"
+        },
+        {
+          "name": "Tso Moriri Camps",
+          "description": "Seasonal tent camps near the lake.",
+          "price": "₹2000-4000/night",
+          "contact": "Book through Leh travel agents in advance"
+        }
+      ]
+    }
+  }
+}

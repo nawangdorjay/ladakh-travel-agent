@@ -1,0 +1,67 @@
+{
+  "areas": {
+    "Nubra Valley": {
+      "permit_required": "Yes — Inner Line Permit (ILP)",
+      "how_to_apply": "Online at https://www.lahdclehpermit.in or at DC Office, Leh",
+      "cost": "₹400 for Indians, ₹600 for foreign nationals (approximate)",
+      "processing_time": "1-3 hours online, same day at DC Office",
+      "validity": "7 days (can be extended)",
+      "notes": "Required to cross Khardung La. Carry printout + original ID proof.",
+      "keywords": ["nubra", "diskit", "hunder", "sumur", "panamik", "khardung"]
+    },
+    "Pangong Lake": {
+      "permit_required": "Yes — Inner Line Permit (ILP)",
+      "how_to_apply": "Online at https://www.lahdclehpermit.in or at DC Office, Leh",
+      "cost": "₹400 for Indians, ₹600 for foreign nationals (approximate)",
+      "processing_time": "1-3 hours online, same day at DC Office",
+      "validity": "7 days",
+      "notes": "No camping directly on lake shore. Use designated camping sites.",
+      "keywords": ["pangong", "pangong tso", "spangmik", "merak", "lukung"]
+    },
+    "Tso Moriri": {
+      "permit_required": "Yes — Inner Line Permit (ILP)",
+      "how_to_apply": "Online at https://www.lahdclehpermit.in or at DC Office, Leh",
+      "cost": "₹400 for Indians, ₹600 for foreign nationals (approximate)",
+      "processing_time": "1-3 hours online, same day at DC Office",
+      "validity": "7 days",
+      "notes": "More remote than Pangong. Limited facilities. Carry supplies.",
+      "keywords": ["tso moriri", "korzok", "tsomoriri", "moriri"]
+    },
+    "Zanskar": {
+      "permit_required": "Yes — Inner Line Permit (ILP)",
+      "how_to_apply": "Online at https://www.lahdclehpermit.in or at DC Office, Leh",
+      "cost": "₹400 for Indians, ₹600 for foreign nationals (approximate)",
+      "processing_time": "1-3 hours online, same day at DC Office",
+      "validity": "7 days",
+      "notes": "Very remote. Road access limited to summer months. Chadar Trek requires separate permits.",
+      "keywords": ["zanskar", "padum", "chadar", "zanskar valley"]
+    },
+    "Leh City": {
+      "permit_required": "No permit needed for Leh city itself",
+      "how_to_apply": "N/A — no permit for Leh city",
+      "cost": "Free",
+      "processing_time": "N/A",
+      "validity": "N/A",
+      "notes": "Inner Line Permit is only needed when traveling outside Leh city to restricted areas.",
+      "keywords": ["leh city", "leh town", "leh market"]
+    },
+    "Siachen Base Camp": {
+      "permit_required": "Yes — Special permit from Army",
+      "how_to_apply": "Through registered travel agents in Leh only",
+      "cost": "Varies (₹2000-5000)",
+      "processing_time": "2-5 days",
+      "validity": "Specific to visit date",
+      "notes": "Limited to Indian nationals. Subject to Army approval. Not always available.",
+      "keywords": ["siachen", "siachen base", "kumar"]
+    },
+    "Hanle": {
+      "permit_required": "Yes — Inner Line Permit (ILP)",
+      "how_to_apply": "Online at https://www.lahdclehpermit.in or at DC Office, Leh",
+      "cost": "₹400 for Indians, ₹600 for foreign nationals (approximate)",
+      "processing_time": "1-3 hours online",
+      "validity": "7 days",
+      "notes": "Home to the Indian Astronomical Observatory. Very remote, limited accommodation.",
+      "keywords": ["hanle", "observatory"]
+    }
+  }
+}

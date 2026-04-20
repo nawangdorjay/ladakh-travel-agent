@@ -1,0 +1,44 @@
+{
+  "routes": {
+    "Khardung La": {
+      "elevation": "5,359 m (17,582 ft)",
+      "open_season": "May to October (weather dependent)",
+      "current_status": "Check with BRO or local taxi drivers for latest",
+      "road_condition": "Paved but narrow in sections. Hairpin turns.",
+      "tips": "Don't stop at the top for more than 15-20 minutes due to altitude. Acclimatize in Leh for at least 24 hours before crossing. Start early (before 7 AM) to avoid afternoon clouds and traffic.",
+      "keywords": ["khardung", "khardungla", "khardong", "nubra road"]
+    },
+    "Chang La": {
+      "elevation": "5,360 m (17,586 ft)",
+      "open_season": "May to October (weather dependent)",
+      "current_status": "Check with BRO or local taxi drivers for latest",
+      "road_condition": "Paved but rough in patches. Steep gradients.",
+      "tips": "Second highest motorable pass. Similar precautions as Khardung La. Army tea stall at the top is a popular stop. Carry water and snacks.",
+      "keywords": ["chang la", "changla", "pangong road"]
+    },
+    "Manali to Leh Highway": {
+      "elevation": "Passes up to 5,328 m (Rohtang, Baralacha, Lachalung, Tanglang La)",
+      "open_season": "June to mid-October",
+      "current_status": "Check BRO status updates",
+      "road_condition": "Mix of paved and unpaved. Some stretches very rough.",
+      "tips": "2-day journey recommended with overnight at Sarchu or Jispa. Altitude changes are dramatic. Carry extra fuel — few pumps between Manali and Leh. AMS risk is real on this route.",
+      "keywords": ["manali leh", "manali to leh", "manali highway", "rohtang", "baralacha", "tanglang"]
+    },
+    "Srinagar to Leh Highway": {
+      "elevation": "Zoji La at 3,528 m (11,575 ft)",
+      "open_season": "May to November",
+      "current_status": "Check BRO status updates",
+      "road_condition": "Better than Manali-Leh but Zoji La can be tricky",
+      "tips": "Scenic route through Kargil. More gradual altitude gain than Manali route — better for AMS acclimatization. Can do in 2 days with overnight in Kargil.",
+      "keywords": ["srinagar leh", "srinagar to leh", "zoji la", "zojila", "kargil road"]
+    },
+    "Spangmik to Merak (Pangong area)": {
+      "elevation": "4,250 m (13,940 ft)",
+      "open_season": "May to October",
+      "current_status": "Check locally",
+      "road_condition": "Unpaved, rough in sections",
+      "tips": "Beautiful lakeside drive. Limited accommodation at Merak. Book homestays in advance during peak season.",
+      "keywords": ["pangong road", "spangmik", "merak", "lukung"]
+    }
+  }
+}
